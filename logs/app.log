@@ -1,0 +1,2 @@
+2026-06-09 15:34:43,308 - INFO - Prediction Request: {'ApplicantIncome': 50000.0, 'CoapplicantIncome': 2500000.0, 'LoanAmount': 30000.0, 'Loan_Amount_Term': 40.0, 'Credit_History': 650.0}
+2026-06-09 15:34:43,312 - INFO - Prediction Result: Rejected
