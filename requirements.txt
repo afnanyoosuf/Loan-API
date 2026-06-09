@@ -6,3 +6,4 @@ uvicorn
 joblib
 pytest
 requests
+httpx
